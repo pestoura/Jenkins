@@ -96,7 +96,7 @@ THE SOFTWARE.
     <spotbugs.excludeFilterFile>${maven.multiModuleProjectDirectory}/src/spotbugs/spotbugs-excludes.xml</spotbugs.excludeFilterFile>
 
     <access-modifier.version>1.27</access-modifier.version>
-    <bridge-method-injector.version>1.23</bridge-method-injector.version>
+    <bridge-method-injector.version>1.26</bridge-method-injector.version>
     <mockito.version>4.7.0</mockito.version>
     <spotless.version>2.25.0</spotless.version>
   </properties>
